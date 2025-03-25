@@ -1,0 +1,4 @@
+﻿Timestamp	Filename	Error	Message
+2025-01-26 09:38:30.904 +0300	KG.fmp12	0	*** Started consistency check of improperly closed file, total of 2531 block(s) to check
+2025-01-26 09:38:31.217 +0300	KG.fmp12	0	Reset maximum block sequence number to 115912
+2025-01-26 09:38:31.233 +0300	KG.fmp12	0	*** Completed consistency check, checked 2531 block(s)

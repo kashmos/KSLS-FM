@@ -1,0 +1,57 @@
+﻿Timestamp	Filename	Error	Message
+2025-01-19 14:28:52.552 +0300	KG.fmp12	0	Import operations started
+2025-01-19 14:28:52.630 +0300	KG.fmp12	0	Import of tables from file “[Excel Namelist.xlsx] KG1BLU” started
+2025-01-19 14:28:52.646 +0300	_Excel Namelist.xlsx_ KG1BLU	0	fields imported : 14
+2025-01-19 14:28:52.661 +0300	KG.fmp12	0	tables imported : 1
+2025-01-19 14:28:52.677 +0300	KG.fmp12	0	Import completed
+2025-01-19 14:28:52.724 +0300	KG.fmp12	0	Import operations committed
+2025-01-19 14:28:52.724 +0300	KG.fmp12	0	==================================================================
+2025-01-19 15:58:00.078 +0300	KG.fmp12	0	Import operations started
+2025-01-19 15:58:00.188 +0300	KG.fmp12	0	Import of tables from file “[Excel Namelist.xlsx] PRE” started
+2025-01-19 15:58:00.237 +0300	_Excel Namelist.xlsx_ PRE	0	fields imported : 12
+2025-01-19 15:58:00.268 +0300	KG.fmp12	0	tables imported : 1
+2025-01-19 15:58:00.299 +0300	KG.fmp12	0	Import completed
+2025-01-19 15:58:00.346 +0300	KG.fmp12	0	Import operations committed
+2025-01-19 15:58:00.377 +0300	KG.fmp12	0	==================================================================
+2025-01-19 16:23:35.430 +0300	KG.fmp12	0	Import operations started
+2025-01-19 16:23:35.477 +0300	KG.fmp12	0	Import of tables from file “[Grading one and two.xlsx] All” started
+2025-01-19 16:23:35.508 +0300	__Grading_one_and_two.xlsx__All	0	fields imported : 26
+2025-01-19 16:23:35.508 +0300	KG.fmp12	0	tables imported : 1
+2025-01-19 16:23:35.524 +0300	KG.fmp12	0	Import completed
+2025-01-19 16:23:35.555 +0300	KG.fmp12	0	Import operations committed
+2025-01-19 16:23:35.571 +0300	KG.fmp12	0	==================================================================
+2025-01-29 09:54:57.218 +0200	KG.fmp12	0	Import operations started
+2025-01-29 09:54:57.280 +0200	KG.fmp12	0	Import of tables from file “G3.xlsx” started
+2025-01-29 09:54:57.296 +0200	G3	0	fields imported : 20
+2025-01-29 09:54:57.311 +0200	KG.fmp12	0	tables imported : 1
+2025-01-29 09:54:57.311 +0200	KG.fmp12	0	Import completed
+2025-01-29 09:54:57.343 +0200	KG.fmp12	0	Import operations committed
+2025-01-29 09:54:57.358 +0200	KG.fmp12	0	==================================================================
+2025-01-30 11:00:35.794 +0200	KG.fmp12	0	Import operations started
+2025-01-30 11:00:35.857 +0200	KG.fmp12	0	Import of tables from file “G4.xlsx” started
+2025-01-30 11:00:35.888 +0200	G4	0	fields imported : 23
+2025-01-30 11:00:35.904 +0200	KG.fmp12	0	tables imported : 1
+2025-01-30 11:00:35.904 +0200	KG.fmp12	0	Import completed
+2025-01-30 11:00:35.951 +0200	KG.fmp12	0	Import operations committed
+2025-01-30 11:00:35.951 +0200	KG.fmp12	0	==================================================================
+2025-01-30 14:06:35.020 +0200	KG.fmp12	0	Import operations started
+2025-01-30 14:06:35.083 +0200	KG.fmp12	0	Import of tables from file “[بيانات طلاب حديث.xlsx] G7” started
+2025-01-30 14:06:35.161 +0200	_بيانات طلاب حديث.xlsx_ G7	0	fields imported : 86
+2025-01-30 14:06:35.176 +0200	KG.fmp12	0	tables imported : 1
+2025-01-30 14:06:35.176 +0200	KG.fmp12	0	Import completed
+2025-01-30 14:06:35.208 +0200	KG.fmp12	0	Import operations committed
+2025-01-30 14:06:35.223 +0200	KG.fmp12	0	==================================================================
+2025-01-30 14:36:32.251 +0200	KG.fmp12	0	Import operations started
+2025-01-30 14:36:32.329 +0200	KG.fmp12	0	Import of tables from file “G7.xlsx” started
+2025-01-30 14:36:32.376 +0200	G7	0	fields imported : 29
+2025-01-30 14:36:32.392 +0200	KG.fmp12	0	tables imported : 1
+2025-01-30 14:36:32.392 +0200	KG.fmp12	0	Import completed
+2025-01-30 14:36:32.426 +0200	KG.fmp12	0	Import operations committed
+2025-01-30 14:36:32.426 +0200	KG.fmp12	0	==================================================================
+2025-01-30 14:39:15.781 +0200	KG.fmp12	0	Import operations started
+2025-01-30 14:39:15.843 +0200	KG.fmp12	0	Import of tables from file “G8.xlsx” started
+2025-01-30 14:39:15.874 +0200	G8	0	fields imported : 27
+2025-01-30 14:39:15.874 +0200	KG.fmp12	0	tables imported : 1
+2025-01-30 14:39:15.874 +0200	KG.fmp12	0	Import completed
+2025-01-30 14:39:15.921 +0200	KG.fmp12	0	Import operations committed
+2025-01-30 14:39:15.937 +0200	KG.fmp12	0	==================================================================
