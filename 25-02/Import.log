@@ -2,3 +2,87 @@
 2025-03-25 11:14:24.330 +0200	KSLS.25.02.fmp12	0	Import of themes from file “THX Mobile Themes.fmp12” started
 2025-03-25 11:14:24.610 +0200	KSLS.25.02.fmp12	0	themes imported : 5
 2025-03-25 11:14:24.638 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-25 22:03:01.049 +0200	KSLS.25.02.fmp12	0	Import operations started
+2025-03-25 22:03:01.102 +0200	KSLS.25.02.fmp12	0	Import of tables from file “k-StudAff-2211.fmp12” started
+2025-03-25 22:03:01.134 +0200	grades::idgrade::fieldType	413	Attribute value “Invalid” unknown.
+2025-03-25 22:03:01.151 +0200	grades::idgrade	413	Attribute value “<unknown>” unknown.
+2025-03-25 22:03:01.183 +0200	grades	0	fields imported : 23
+2025-03-25 22:03:01.211 +0200	KSLS.25.02.fmp12	0	tables imported : 1
+2025-03-25 22:03:01.216 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-25 22:03:01.264 +0200	KSLS.25.02.fmp12	0	Import operations committed
+2025-03-25 22:03:01.274 +0200	KSLS.25.02.fmp12	0	==================================================================
+2025-03-26 00:29:26.149 +0200	KSLS.25.02.fmp12	0	Import of scripts from file “k-StudAff-2211.fmp12” started
+2025-03-26 00:29:26.180 +0200	Student brithday from national_id::1::Set Selection	102	Field “national_id” missing.
+2025-03-26 00:29:26.196 +0200	Student brithday from national_id::3::Go to Field	102	Field “birthday” missing.
+2025-03-26 00:29:26.213 +0200	Student brithday from national_id	0	script steps imported : 9
+2025-03-26 00:29:26.243 +0200	KSLS.25.02.fmp12	0	scripts imported : 1
+2025-03-26 00:29:26.245 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-26 00:33:27.649 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-26 00:33:27.729 +0200	Student brithday from national_id	0	script steps imported : 1
+2025-03-26 00:33:27.746 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-26 00:42:10.524 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-26 00:42:10.537 +0200	Student brithday from national_id	0	script steps imported : 4
+2025-03-26 00:42:10.555 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-26 00:43:04.617 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-26 00:43:04.664 +0200	Student brithday from national_id	0	script steps imported : 5
+2025-03-26 00:43:04.680 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-26 00:44:47.148 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-26 00:44:47.243 +0200	Student brithday from national_id	0	script steps imported : 1
+2025-03-26 00:44:47.258 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-26 00:48:52.969 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-26 00:48:53.148 +0200	Student brithday from national_id	0	script steps imported : 1
+2025-03-26 00:48:53.213 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-26 00:49:01.154 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-26 00:49:01.235 +0200	Student brithday from national_id	0	script steps imported : 1
+2025-03-26 00:49:01.251 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-26 00:49:03.657 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-26 00:49:03.689 +0200	Student brithday from national_id	0	script steps imported : 1
+2025-03-26 00:49:03.705 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-26 00:50:00.961 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-26 00:50:00.967 +0200	Student brithday from national_id	0	script steps imported : 1
+2025-03-26 00:50:00.992 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-26 00:53:55.726 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-26 00:53:55.742 +0200	Student brithday from national_id	0	script steps imported : 1
+2025-03-26 00:53:55.774 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-26 00:53:56.430 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-26 00:53:56.567 +0200	Student brithday from national_id	0	script steps imported : 1
+2025-03-26 00:53:56.586 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-26 01:04:15.624 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-26 01:04:15.657 +0200	Student brithday from national_id	0	script steps imported : 5
+2025-03-26 01:04:15.673 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-26 01:08:54.993 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-26 01:08:55.000 +0200	Student brithday from national_id	0	script steps imported : 1
+2025-03-26 01:08:55.024 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-30 01:58:25.180 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-30 01:58:25.211 +0200	Find Student National ID Card	0	script steps imported : 2
+2025-03-30 01:58:25.243 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-30 02:03:49.985 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-30 02:03:50.008 +0200	Find Student ID	0	script steps imported : 2
+2025-03-30 02:03:50.030 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-30 02:10:29.246 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-30 02:10:29.263 +0200	Add new Student	0	script steps imported : 1
+2025-03-30 02:10:29.279 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-30 03:07:08.899 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-30 03:07:08.922 +0200	Add new Student	0	script steps imported : 1
+2025-03-30 03:07:08.945 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-30 03:07:59.652 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-30 03:07:59.680 +0200	Add new Student	0	script steps imported : 1
+2025-03-30 03:07:59.701 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-31 03:26:14.774 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-31 03:26:14.790 +0200	Add new Student	0	script steps imported : 1
+2025-03-31 03:26:14.807 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-31 03:39:49.927 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-31 03:39:49.960 +0200	Find Student By NationalID	0	script steps imported : 1
+2025-03-31 03:39:49.979 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-31 03:45:32.552 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-31 03:45:32.584 +0200	Find Student By NationalID	0	script steps imported : 1
+2025-03-31 03:45:32.604 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-31 03:45:47.497 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-31 03:45:47.546 +0200	Find Student By Name	0	script steps imported : 2
+2025-03-31 03:45:47.579 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-31 03:45:55.035 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-31 03:45:55.072 +0200	Find Student By Name	0	script steps imported : 1
+2025-03-31 03:45:55.084 +0200	KSLS.25.02.fmp12	0	Import completed
+2025-03-31 03:46:09.072 +0200	KSLS.25.02.fmp12	0	Import of script steps from clipboard started
+2025-03-31 03:46:09.198 +0200	Find Student By NationalID	0	script steps imported : 1
+2025-03-31 03:46:09.214 +0200	KSLS.25.02.fmp12	0	Import completed

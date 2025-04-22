@@ -1,0 +1,14 @@
+﻿Timestamp	Filename	Error	Message
+2025-03-26 13:11:16.057 +0200	KSLSDB.fmp12	0	*** Started consistency check of improperly closed file, total of 593 block(s) to check
+2025-03-26 13:11:16.073 +0200	KSLSDB.fmp12	8432	Page 593 marked free but not in free list
+2025-03-26 13:11:16.089 +0200	KSLSDB.fmp12	0	Reset maximum block sequence number to 1001956
+2025-03-26 13:11:16.104 +0200	KSLSDB.fmp12	0	*** Completed consistency check, checked 593 block(s)
+2025-03-30 01:25:25.427 +0200	KSLSDB.fmp12	0	*** Started consistency check of improperly closed file, total of 596 block(s) to check
+2025-03-30 01:25:25.490 +0200	KSLSDB.fmp12	8432	Page 596 marked free but not in free list
+2025-03-30 01:25:25.506 +0200	KSLSDB.fmp12	0	Reset maximum block sequence number to 1004343
+2025-03-30 01:25:25.537 +0200	KSLSDB.fmp12	0	*** Completed consistency check, checked 596 block(s)
+2025-04-02 06:32:53.948 +0200	KSLSDB.fmp12	0	*** Started consistency check of improperly closed file, total of 597 block(s) to check
+2025-04-02 06:32:54.132 +0200	KSLSDB.fmp12	8432	Page 595 marked free but not in free list
+2025-04-02 06:32:54.175 +0200	KSLSDB.fmp12	8432	Page 597 marked free but not in free list
+2025-04-02 06:32:54.208 +0200	KSLSDB.fmp12	0	Reset maximum block sequence number to 1007678
+2025-04-02 06:32:54.256 +0200	KSLSDB.fmp12	0	*** Completed consistency check, checked 597 block(s)
